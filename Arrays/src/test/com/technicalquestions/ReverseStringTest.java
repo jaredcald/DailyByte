@@ -10,8 +10,19 @@ public class ReverseStringTest {
 
     @Test
     void ReverseStringTest1(){
-        String actual = reverseString.ReverseString(testStrings[0]);
+        String actual = reverseString.reverseString(testStrings[0]);
         assertEquals("staC", actual);
     }
+
+    @Test
+    void ReverseStringTest2(){
+        String actual = reverseString.reverseString(testStrings[1]);
+        assertEquals("etyB yliaD ehT", actual);
+    }
+
+    @Test
+    void ReverseStringTest3(){
+        String actual = reverseString.reverseString(testStrings[2]);
+        assertEquals("civic", actual);
+    }
 }
-.
