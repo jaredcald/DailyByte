@@ -12,7 +12,7 @@ package com.technicalquestions;
 
 public class ReverseString {
 
-    public ReverseString() { }
+    public ReverseString() {}
 
     public String reverseString(String s){
 
