@@ -71,3 +71,8 @@ public class CorrectCapitalization {
         return (count == 0 || count == l || (count == 1 && Character.isUpperCase(s.charAt(0))));
     }
 }
+/*
+Big-O Analysis
+    Runtime: O(N) where N is the number of characters in our word
+    Space complexity: O(1)
+ */

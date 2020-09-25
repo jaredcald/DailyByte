@@ -56,3 +56,9 @@ public class AddBinary {
         return result.toString();
     }
 }
+
+/*
+Big-O Analysis
+    Runtime: O(N + M) where N is the length of one string and M is the length of the other string
+    Space complexity: O(max(N, M)) as the longest our resulting string will be is the length of the longer string + 1
+ */
