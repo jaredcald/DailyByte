@@ -39,3 +39,9 @@ public class TwoSum {
         return false;
     }
 }
+
+/*
+    Big-O Analysis
+    Run Time: O(N) where n is the size of the nums[]
+    Space Complexity: O(1)
+ */
