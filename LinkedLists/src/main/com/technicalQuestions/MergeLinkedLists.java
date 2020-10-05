@@ -16,7 +16,7 @@ PseudoCode
 
     Create a LinkedList
     Set the head to the lowest value
-    Create a header node for return value
+    Create pointers to each Linked List
 
     Loop through list1 OR list2
         If value of list1.node < value of list2.node
@@ -25,11 +25,12 @@ PseudoCode
         Else
             set return linked list next node to list2 node
             move to next node in list2
-        move to next node
+        move to next node on return list
     If there are nodes left in list1
         set return lists next node to list1
     else
         set return lists next node to list2
+    return linked list results
  */
 
 
