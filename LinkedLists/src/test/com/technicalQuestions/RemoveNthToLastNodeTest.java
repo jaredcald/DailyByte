@@ -41,6 +41,5 @@ public class RemoveNthToLastNodeTest {
         LinkedList results = removeNthToLastNode.removeNthToLast(list, n);
 
         assertEquals(expected, results.printList());
-
     }
 }
