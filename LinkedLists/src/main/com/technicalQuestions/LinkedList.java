@@ -22,6 +22,10 @@ public class LinkedList {
         this.head = head;
     }
 
+    public LinkedList(Node head) {
+        this.head = head;
+    }
+
     public LinkedList(int[] values){
         Node node = new Node(values[0]);
         this.head = node;
