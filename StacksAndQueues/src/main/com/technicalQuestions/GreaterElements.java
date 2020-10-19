@@ -22,7 +22,7 @@ PseudoCode
         While stack is not empty and current num is greater than the top of the stack
             Put pop the top of the stack and current number in Hashmap
         End Loop
-        Push number into stack
+        Push current number into stack
     End Loop
     While Stack isnt empty
         Put the top of the stack with a value of -1

@@ -39,4 +39,16 @@ public class GreaterElementsTest {
             assertEquals(expected[i], actual[i]);
         }
     }
+
+    @Test
+    public void ValidateCharactersTest3() {
+        int[] nums1 = new int[]{2,4};
+        int[] nums2 = new int[]{4,3,2,1,5};
+        int[] expected = new int[]{5, 5};
+        int[] actual = greaterElements.greaterElements(nums1, nums2);
+
+        for(int i = 0; i < actual.length; i++){
+            assertEquals(expected[i], actual[i]);
+        }
+    }
 }
