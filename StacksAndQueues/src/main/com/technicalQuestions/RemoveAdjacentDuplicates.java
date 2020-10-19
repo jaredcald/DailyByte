@@ -47,3 +47,9 @@ public class RemoveAdjacentDuplicates {
         return result.toString();
     }
 }
+
+/*
+Big-O Analysis
+    Runtime: O(N) where N is the number of characters in s.
+    Space complexity: O(N) where N is the number of characters in s.
+ */
