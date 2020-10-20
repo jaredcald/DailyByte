@@ -47,3 +47,9 @@ public class CallCounter {
         return queue.size();
     }
 }
+/*
+Big-O Analysis
+    Runtime: O(N) where N is the number of queries made to ping.
+    Space complexity: generally speaking O(W) where W is our window size
+    but this can be considered O(1) in our case since our window size is fixed at 3 seconds.
+ */

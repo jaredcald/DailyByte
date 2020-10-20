@@ -58,3 +58,10 @@ public class MovingAverage {
     }
 
 }
+
+/*
+Big-O Analysis
+    Runtime: O(1) as we can return the average of our stream of integers in constant time
+        (i.e. we don't have to iterate through all N elements in our stream)
+    Space complexity: O(N) where N is the size of our stream
+ */
