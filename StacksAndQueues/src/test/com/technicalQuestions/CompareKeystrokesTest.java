@@ -1,6 +1,6 @@
 package com.technicalQuestions;
 
-/*
+/**
 s = "ABC#", t = "CD##AB", return true
 s = "como#pur#ter", t = "computer", return true
 s = "cof#dim#ng", t = "code", return false

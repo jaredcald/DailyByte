@@ -1,5 +1,5 @@
 package com.technicalQuestions;
-/*
+/**
 Given a non-empty linked list, return the middle node of the list. If the linked list contains an even number of
 elements, return the node closer to the end.
 

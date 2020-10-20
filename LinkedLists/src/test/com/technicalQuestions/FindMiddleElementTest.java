@@ -2,7 +2,7 @@ package com.technicalQuestions;
 
 import org.junit.jupiter.api.Test;
 
-/*
+/**
     1->2->3->null, return 2
     1->2->3->4->null, return 3
     1->null, return 1

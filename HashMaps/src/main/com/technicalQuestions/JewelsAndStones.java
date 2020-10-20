@@ -1,6 +1,6 @@
 package com.technicalQuestions;
 
-/*
+/**
 Given a string representing your stones and another string representing a list of jewels, return the number of
 stones that you have that are also jewels.
 

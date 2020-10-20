@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-/*
+/**
 1->2->3->1 -> true (3 points back to 1)
 1->2->3 -> false
 1->1 true (1 points to itself)

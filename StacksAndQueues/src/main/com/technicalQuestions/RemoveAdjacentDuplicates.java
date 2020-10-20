@@ -1,6 +1,6 @@
 package com.technicalQuestions;
 
-/*
+/**
 Given a string s containing only lowercase letters, continuously remove adjacent characters that are the same and return the result.
 
 Ex: Given the following strings...

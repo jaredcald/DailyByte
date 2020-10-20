@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-/*
+/**
 1->2->3->null, n = 1, return 1->2->null
 1->2->3->null, n = 2, return 1->3->null
 1->2->3->null, n = 3, return 2->3->null

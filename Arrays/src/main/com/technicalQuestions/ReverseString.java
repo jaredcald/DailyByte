@@ -1,6 +1,6 @@
 package com.technicalQuestions;
 
-    /*
+    /**
     Given a string, reverse all of its characters and return the resulting string.
 
         Ex: Given the following strings...

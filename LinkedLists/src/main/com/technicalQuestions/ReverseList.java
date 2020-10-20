@@ -1,6 +1,6 @@
 package com.technicalQuestions;
 
-/*
+/**
 Given a linked list, containing unique values, reverse it, and return the result.
 
 Ex: Given the following linked lists...

@@ -1,6 +1,6 @@
 package com.technicalQuestions;
 
-/*
+/**
 Given a linked list and a value, remove all nodes containing the provided value, and return the resulting list.
 
 Ex: Given the following linked lists and values...

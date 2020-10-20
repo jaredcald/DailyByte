@@ -1,5 +1,5 @@
 package com.technicalQuestions;
-/*
+/**
     Given an array of strings, return the longest common prefix that is shared amongst all strings.
     Note: you may assume all strings only contain lowercase alphabetical characters.
 
@@ -8,8 +8,7 @@ package com.technicalQuestions;
     ["colorado", "color", "cold"], return "col"
     ["a", "b", "c"], return ""
     ["spot", "spotty", "spotted"], return "spot"
- */
-/*
+
 PseudoCode
     Given an Array of Strings
     Return longest prefix String

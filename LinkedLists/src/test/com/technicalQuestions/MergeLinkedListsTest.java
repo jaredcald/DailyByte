@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class MergeLinkedListsTest {
-    /*
+    /**
     list1 = 1->2->3, list2 = 4->5->6->null, return 1->2->3->4->5->6->null
     list1 = 1->3->5, list2 = 2->4->6->null, return 1->2->3->4->5->6->null
     list1 = 4->4->7, list2 = 1->5->6->null, return 1->4->4->5->6->7->null

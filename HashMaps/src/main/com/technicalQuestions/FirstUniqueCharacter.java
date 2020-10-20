@@ -2,7 +2,7 @@ package com.technicalQuestions;
 
 import java.util.HashMap;
 
-/*
+/**
 Given a string, return the index of its first unique character. If a unique character does not exist, return -1.
 
 Ex: Given the following strings...
