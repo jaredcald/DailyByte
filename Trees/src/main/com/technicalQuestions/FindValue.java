@@ -39,8 +39,6 @@ package com.technicalQuestions;
 
 
 
-
-
 public class FindValue {
 
     public FindValue() { }
